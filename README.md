@@ -1,7 +1,9 @@
 ## Simple golang functional programming example with benchmark 
 
-- go run main.go
-- go test -bench=.
+```console
+bilrafal@desktop:~$ go run main.go
+bilrafal@desktop:~$ go test -bench=.
+```
 
 # Benchmark results:
 - goos: linux  
