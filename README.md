@@ -3,6 +3,7 @@
 - go run main.go
 - go test -bench=.
 
+# Benchmark results:
 goos: linux  
 goarch: amd64  
 pkg: go-fn-prog-01  
