@@ -4,10 +4,10 @@
 - go test -bench=.
 
 # Benchmark results:
-goos: linux  
-goarch: amd64  
-pkg: go-fn-prog-01  
-cpu: Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz  
+- goos: linux  
+- goarch: amd64  
+- pkg: go-fn-prog-01  
+- cpu: Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz  
 
 Benchmark                              | Time(ns)       | CPU(ns/op)
 ---------------------------------------|----------------|---------------
