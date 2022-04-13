@@ -1,4 +1,5 @@
 ## Simple golang functional programming example with benchmark 
+Use this snippet to run / test benchmark:
 
 ```console
 bilrafal@desktop:~$ go run main.go
